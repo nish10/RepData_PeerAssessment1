@@ -1,3 +1,5 @@
+## **<a href ='https://nish10.github.io/Reproducible-Research-R-Project1-Coursera/PA1_template.html'> Click on this link to see my output</a>**
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
